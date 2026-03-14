@@ -1,2 +1,2 @@
-# Sorting-hat---Harry-potter
+# Sorting-hat-Harry-potter
 I made a short sorting hat quiz for you house 
